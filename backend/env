@@ -1,0 +1,3 @@
+MONGO_BASE_PATH = "mongodb+srv://admin:LYKf4Usi6HLJ6tie@cluster0.imna8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+BASE_URL = http://localhost:5000/
+PORT = 5000

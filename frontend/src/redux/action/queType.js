@@ -1,0 +1,8 @@
+export const QUE_SUCCESS="QUE_SUCCESS";
+export const QUE_REQUEST="QUE_REQUEST";
+export const QUE_ERROR="QUE_ERROR";
+export const QUE_RESET="QUE_RESET";
+
+export const QUE_FIND_SUCCESS="QUE_FIND_SUCCESS";
+export const QUE_FIND_REQUEST="QUE_FIND_REQUEST";
+export const QUE_FIND_ERROR="QUE_FIND_ERROR";
